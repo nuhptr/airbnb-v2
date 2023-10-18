@@ -4,4 +4,16 @@ Building a clone of Airbnb using Nextjs13, TailwindCSS, Prisma, MongoDB, NextAut
 
 ## Getting Started (Dependencies)
 
--  [React-Icons](https://react-icons.github.io/react-icons/) - npm install react-icons
+-  [React-Icons](https://react-icons.github.io/react-icons/) - npm install react-icons (Include popular icons in your React projects easily with react-icons)
+-  [Zustand](https://zustand-demo.pmnd.rs/) - npm install zustand (A small, fast and scalable bearbones state-management solution)
+-  [Axios](https://axios-http.com/docs/intro) - npm install axios (Promise based HTTP client for the browser and node.js)
+-  [React-Hook-Form](https://react-hook-form.com/) - npm install react-hook-form (A library to help with form validation)
+
+## Features
+
+-  🐊 Learn using zustand and create modals
+-  🐇 Authentication using Next Auth
+-  🐈 Learn how to use Cloudinary
+-  🐅 Learn how to use Prisma
+-  🐍 Learn how to use MongoDB
+-
