@@ -8,6 +8,7 @@ Building a clone of Airbnb using Nextjs13, TailwindCSS, Prisma, MongoDB, NextAut
 -  [Zustand](https://zustand-demo.pmnd.rs/) - npm install zustand (A small, fast and scalable bearbones state-management solution)
 -  [Axios](https://axios-http.com/docs/intro) - npm install axios (Promise based HTTP client for the browser and node.js)
 -  [React-Hook-Form](https://react-hook-form.com/) - npm install react-hook-form (A library to help with form validation)
+-  [React-Hot-Toast](https://react-hot-toast.com/) - npm install react-hot-toast (Smoking hot React Notifications)
 
 ## Features
 
