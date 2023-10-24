@@ -14,16 +14,7 @@ type IInputProps = {
    errors: FieldErrors
 }
 
-export default function Input({
-   id,
-   label,
-   type,
-   disabled,
-   formatPrice,
-   required,
-   register,
-   errors,
-}: IInputProps) {
+export default function Input({ id, label, type, disabled, formatPrice, required, register, errors }: IInputProps) {
    return (
       <div className="relative w-full">
          {formatPrice && <BiDollar size={24} className="absolute top-5 left-2 text-neutral-700" />}
