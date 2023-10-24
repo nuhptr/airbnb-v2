@@ -11,14 +11,7 @@ type IButtonProps = {
    icon?: IconType
 }
 
-export default function Button({
-   label,
-   onClick,
-   disabled,
-   outline,
-   small,
-   icon: Icon,
-}: IButtonProps) {
+export default function Button({ label, onClick, disabled, outline, small, icon: Icon }: IButtonProps) {
    return (
       <button
          onClick={onClick}
