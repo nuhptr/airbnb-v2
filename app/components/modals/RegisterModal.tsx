@@ -44,15 +44,7 @@ export default function RegisterModal() {
             errors={errors}
             required
          />
-         <Input
-            id="name"
-            label="Name"
-            type="text"
-            disabled={isLoading}
-            register={register}
-            errors={errors}
-            required
-         />
+         <Input id="name" label="Name" type="text" disabled={isLoading} register={register} errors={errors} required />
          <Input
             id="password"
             label="Password"
