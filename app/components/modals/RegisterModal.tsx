@@ -6,7 +6,7 @@ import { FcGoogle } from "react-icons/fc"
 import { useCallback, useState } from "react"
 import { FieldValues, useForm, SubmitHandler } from "react-hook-form"
 
-import useRegistrationModal from "@/app/hooks/useRegistrationModal"
+import useRegistrationModal from "@/app/hooks/UseRegistrationModal"
 
 import Modal from "./Modal"
 import Heading from "../Heading"

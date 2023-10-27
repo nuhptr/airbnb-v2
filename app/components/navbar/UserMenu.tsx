@@ -3,7 +3,7 @@
 import { useCallback, useState } from "react"
 import { AiOutlineMenu } from "react-icons/ai"
 
-import useRegistrationModal from "@/app/hooks/useRegistrationModal"
+import useRegistrationModal from "@/app/hooks/UseRegistrationModal"
 
 import MenuItem from "./MenuItem"
 import Avatar from "../Avatar"
